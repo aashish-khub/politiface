@@ -6,6 +6,4 @@ Authored by Aashish Khubchandani and Max Henkel-Wallace.
 <<<<<<< HEAD
 =======
 
-
-Test text lorem ipsum dolor sit amet
 >>>>>>> 572490fd9b72fcda2bbc8691ac99e8b71684e7ca
